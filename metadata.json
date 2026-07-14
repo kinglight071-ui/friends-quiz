@@ -1,0 +1,6 @@
+{
+  "name": "FriendQuiz",
+  "description": "Create personalized friendship quizzes, challenge your friends, and track who knows you best with a live scoreboard, funny results, and interactive achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
